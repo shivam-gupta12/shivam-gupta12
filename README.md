@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-gupta12&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-gupta12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
 - 🔭 I’m currently working on **developing Natural Language Processing chatbots and implementing AI solutions**
 
 - 🌱 I’m currently learning **Generative AI and exploring Large Language Models**
@@ -30,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-gupta12&show_icons=true&locale=en&layout=compact" alt="shivam-gupta12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-gupta12&show_icons=true&locale=en" alt="shivam-gupta12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-gupta12&" alt="shivam-gupta12" /></p>
