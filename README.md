@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-gupta12&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-gupta12" /> </p>
 
-- 🔭 I’m currently working on **developing Natural Language Processing chatbots and implementing AI solutions**
+- 🔭 I’m currently working on **Implementing AI solutions, fine tuning models and reading research**
 
 - 🌱 I’m currently learning **Generative AI and exploring Large Language Models**
 
